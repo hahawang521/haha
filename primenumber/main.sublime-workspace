@@ -1,0 +1,237 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pcip",
+				"Package Control: Install Package"
+			],
+			[
+				"live",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"pcop",
+				"Package Control: List Packages"
+			],
+			[
+				"slma",
+				"Set Syntax: MultiMarkdown"
+			],
+			[
+				"pcr",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"pci",
+				"Package Control: Install Package"
+			],
+			[
+				"ss",
+				"Set Syntax: QBasic"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install package",
+				"Package Control: Install Package"
+			],
+			[
+				"package control install pac",
+				"Package Control: Install Package"
+			],
+			[
+				"package control",
+				"Package Control: Add Channel"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 201.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/WorkProject/C code/markdown1.md",
+		"/D/GreenTools/Sublime Text 3211 x64/Data/Packages/Package Control/Package Control.sublime-settings",
+		"/D/GreenTools/Sublime Text 3211 x64/Data/Packages/User/Package Control.sublime-settings",
+		"/D/GreenTools/Sublime Text 3211 x64/Data/Packages/User/Base File.sublime-settings",
+		"/D/GreenTools/Sublime Text 3211 x64/Data/Packages/DocBlockr/README.md",
+		"/D/GreenTools/Sublime Text 3211 x64/Data/Packages/DocBlockr/Base File.sublime-settings",
+		"/D/Documents/Desktop/TRIO/202004/466# 5J+1S+1M+连续收卷+纠偏+BST/ZTJYJ_SP4.4.7.7.3E/INPHASE.BAS",
+		"/D/Documents/Desktop/TRIO/202004/466# 5J+1S+1M+连续收卷+纠偏+BST/update.txt",
+		"/D/Documents/Desktop/TRIO/202004/466# 5J+1S+1M+连续收卷+纠偏+BST/KEY.txt",
+		"/D/Documents/Desktop/TRIO/202003/435# 5J+纠偏+BST/ZTJYJ_SP4.4.7.7.3E/COLOR.BAS",
+		"/D/Documents/Desktop/log.txt",
+		"/D/GreenTools/Sublime Text 3211 x64/Data/Packages/User/ColorPicker.sublime-settings",
+		"/D/GreenTools/Sublime Text 3211 x64/Data/Packages/ColorPicker/ColorPicker.sublime-settings"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "main.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

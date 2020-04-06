@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1585189760 source:d:\workproject\c code\primenumber\main.c
+	"general.h"
+
+1585016050 d:\workproject\c code\primenumber\general.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"function.h"
+
+1585011348 source:d:\workproject\c code\primenumber\money.c
+	"general.h"
+
+1585011350 source:d:\workproject\c code\primenumber\primenumber.c
+	"general.h"
+
+1585010013 source:d:\workproject\c code\primenumber\max_sort.c
+	"general.h"
+
+1585189768 d:\workproject\c code\primenumber\function.h
+
+1585012124 source:d:\workproject\c code\primenumber\ninenine.c
+	"general.h"
+
+1585019756 source:d:\workproject\c code\primenumber\self power.c
+	"general.h"
+
+1585032683 source:d:\workproject\c code\primenumber\function.h
+
+1585016050 source:d:\workproject\c code\primenumber\general.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"function.h"
+
+1585033516 source:d:\workproject\c code\primenumber\factorization.c
+	"general.h"
+
+1585187200 source:d:\workproject\c code\primenumber\perfectnumber.c
+	"general.h"
+
